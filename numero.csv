@@ -1,0 +1,69 @@
+num;intitulé;payant
+15;SAMU;gratuit
+17;Police ou Gendarmerie;gratuit
+18;Pompiers;gratuit
+112;Numéro d'urgence européen;gratuit
+114;Urgences pour personnes sourdes ou malentendantes;gratuit
+115;Urgences sociales (ou « SAMU social »)  ;gratuit
+119;Enfance maltraitée;gratuit
+191;Sauvetage dans les airs;gratuit
+196;Sauvetage en mer;gratuit
+197;Alerte attentat – Alerte enlèvement ;gratuit
+660;Messagerie B&YOU/Bouygues Telecom;gratuit
+777;Messagerie Cdiscount Mobile/CIC Mobile/Crédit Mutuel Mobile/NRJ mobile/Source mobile/Auchan télécom;gratuit
+222;Messagerie Coriolis;gratuit
+666;Messagerie Free mobile;gratuit
+123;Messagerie La Poste Mobile/Mint mobile;gratuit
+555;Lefrenchmobile;gratuit
+121;Messagerie Lyca Mobile;gratuit
+888;Messagerie Nordnet/Orange/Ozone/Sosh/Telecoop;gratuit
+123;Messagerie Prixtel/RED by SFR/Réglo mobile/SFR/Syma mobile;gratuit
+147;Messagerie SFR fixe;gratuit
+904;La Poste mobile;non surtaxé
+614;Bouygues Telecom;non surtaxé
+740;gestion ligne tel Orange;gratuit
+3011;BOULANGER;non surtaxé
+3103;Répondeur orange fixe;gratuit
+3103;Répondeur SFR fixe;gratuit
+3244;service clients Free;
+1044;service commercial Free;gratuit
+3179;Portage RIO;gratuit
+3900;service clients Orange;non surtaxé
+3901;service clients pro Orange;non surtaxé
+1064;service clients Bouygues;gratuit
+3106;service commercial Bouygues;gratuit
+3976;service clients Sosh;non surtaxé
+1023;service clients SFR;non surtaxé
+3979;service clients Cdiscount;SVA
+3631;Colissimo/La Poste;non surtaxé
+3404;EDF elec;non surtaxé
+3004;EDF gaz;gratuit
+3477;BNP Paribas;non surtaxé
+3654;Air France;SVA
+3635;SNCF;non surtaxé
+3939;Allo Service Public;non surtaxé
+3400;ANTS;non surtaxé
+3424;RATP;gratuit
+3230;CAF;non surtaxé
+3949;France Travail;non surtaxé
+3646;CPAM;gratuit
+3960;Assurance retraite;gratuit
+33700;SMS Signal spam;gratuit
+38655;SMS OrangeBank;gratuit
+36200;SMS LINK Mobility;gratuit
+38082;SMS remplacement chaudière;gratuit
+38005;SMS LaBanquePostale;gratuit
+38948;SMS Hopital de Riom;gratuit
+36038;SMS MAIF;gratuit
+38656;SMS Cni disponible;gratuit
+36980;SMS Salesforce;gratuit
+20182;SMS alerte orages Orange;gratuit
+21116;SMS orange save;gratuit
+36180;SMS rappel rv paramédicaux;gratuit
+36007;SMS rappel rv médicaux;gratuit
+36035;SMS socram banque;gratuit
+38985;SMS LaBanquePostale;gratuit
+118412;renseignements Néo editions;SVA
+118818;renseignements Free;SVA
+118707;renseignements Monetiz;SVA
+118712;renseignements Orange;SVA
